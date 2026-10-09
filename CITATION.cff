@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this archive and its exact commit when using the saved numerical results."
+title: "BARE-SV: archived numerical data and code for budgeted ligand qualification"
+type: dataset
+authors:
+  - family-names: Liu
+    given-names: Shuai
+    orcid: "https://orcid.org/0009-0002-8641-5188"
+    affiliation: "School of Artificial Intelligence, Taizhou University"
+  - family-names: Li
+    given-names: Hui
+    affiliation: "School of Artificial Intelligence, Taizhou University"
+  - family-names: Qian
+    given-names: Jin
+    affiliation: "School of Artificial Intelligence, Taizhou University"
+repository-code: "https://github.com/timefly-1989/BARE-SV-budgeted-ligand-qualification"
+url: "https://github.com/timefly-1989/BARE-SV-budgeted-ligand-qualification"
+date-released: "2026-10-10"
