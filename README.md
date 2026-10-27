@@ -1,5 +1,17 @@
 # BARE-SV: budgeted ligand qualification — numerical archive
 
+## 2026-10-27 stage-observable revision
+
+The [new numerical evidence archive](stage_evidence_20261027.zip) retains
+stage-eligible predictions, all 1,280 independent computational outcomes,
+real-activity allocation results and negative mechanism screens.
+See [scope and replay instructions](STAGE_EVIDENCE_20261027.md) and
+[the archive SHA-256](STAGE_EVIDENCE_20261027.sha256).
+This revision does not establish complete-method superiority; it preserves the
+failed adaptation gates and tied independent primary contrasts.
+The original numerical snapshot and its hashes below remain unchanged.
+
+
 This repository contains the saved ranking scores, computational qualification labels, feature arrays, analysis summaries and numerical replay code for **Pre-verification representations for budgeted ligand qualification: information gains and transfer trade-offs** by Shuai Liu, Hui Li and Jin Qian (Taizhou University). Correspondence: Hui Li, lihui@tzu.edu.cn.
 
 The complete directory structure is distributed in `numerical_archive.zip`. The portable entry-point scripts are also visible at the repository root for inspection. Extract the archive before running them; the file map below refers to the extracted directory.
