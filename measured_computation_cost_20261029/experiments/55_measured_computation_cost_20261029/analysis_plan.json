@@ -1,0 +1,33 @@
+{
+  "status": "RETROSPECTIVE_RECORDED_COST_ACCOUNTING",
+  "archival_records": 1280,
+  "policy_scorers": [
+    "chemeleon_dual_full_compact",
+    "chemeleon_dual_full_full",
+    "morgan_conditional",
+    "catboost_conditional279",
+    "rf_joint279",
+    "historical_route_prior"
+  ],
+  "budgets": [
+    4,
+    8,
+    16,
+    32
+  ],
+  "policy_variants": [
+    "uniform",
+    "recycling",
+    "global",
+    "shield_forecast4",
+    "shield_posterior",
+    "shield_UCB",
+    "shield_search32"
+  ],
+  "all_records_and_failures_retained": true,
+  "future_costs_not_selection_inputs": true,
+  "timings_not_assumed_known_deterministic_costs": true,
+  "code_sha256": {
+    "audit_recorded_costs.py": "295014ea9e102ea4dc178ff676ae2cb79660254def3716fee13033c55ac80fba"
+  }
+}

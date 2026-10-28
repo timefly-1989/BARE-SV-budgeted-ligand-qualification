@@ -1,0 +1,11 @@
+{
+  "first_attempt": {
+    "status": "IMPORT_FAILED_BEFORE_ANY_TIMING_OR_MODEL_LOAD",
+    "reason": "Cached environment lacked catboost",
+    "numerical_results_produced": false
+  },
+  "retry": {
+    "environment": "Pinned requirements experiments/36_external_activity_benchmark_20261027/requirements.txt",
+    "same_code_and_protocol": true
+  }
+}

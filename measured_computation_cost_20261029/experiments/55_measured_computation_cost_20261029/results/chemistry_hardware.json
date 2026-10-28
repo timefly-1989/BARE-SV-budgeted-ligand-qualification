@@ -1,0 +1,31 @@
+{
+  "cpu": "Apple M5 Pro",
+  "memory_bytes": 51539607552,
+  "logical_cpus": 15,
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "peak_process_tree_RSS_MiB": 6046.578125,
+  "thread_environment": {
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1"
+  },
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "rdkit": "2023.9.6",
+    "aizynthfinder": "4.4.1",
+    "meeko": "0.8.0",
+    "posebusters": "0.3.1",
+    "onnxruntime": "1.30.0",
+    "psutil": "7.2.2"
+  },
+  "resource_sha256": {
+    "experiments/05_fresh16/chemistry/raw/aizynth/uspto_model.onnx": "bd0a3cb74cd7068de474c8fb789a00a66bc42c75636d66510ccac585ebe928f8",
+    "experiments/05_fresh16/chemistry/raw/aizynth/uspto_filter_model.onnx": "ad29aa32bdfcbe37065045546493806cf04899c55386c438905d83fb14bb6320",
+    "experiments/05_fresh16/chemistry/raw/aizynth/uspto_templates.csv.gz": "a4f1945e90cfa195538320833d68aed38f14e2fcc2f8afb5d958bc920edcafbe",
+    "experiments/05_fresh16/chemistry/raw/aizynth/zinc_stock.hdf5": "99d39a6f807c3e815487500bafc2b4a9dc66a31af189e3b1776874fb0d4a188d",
+    "experiments/05_fresh16/chemistry/bin/vina": "823c2bbacf26d72183861322345f0a89736aca66c8e81054c66f93af5ad623f1"
+  }
+}

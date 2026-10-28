@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "fresh_route_calls": 16,
+  "fresh_downstream_calls": 40,
+  "fresh_shared_reference_calls": 23,
+  "records": 309,
+  "serial_single_task_driver": true,
+  "Vina_cpu": 1,
+  "PoseBusters_archived_default_threading": true,
+  "cold_OS_cache_claim": false,
+  "previous_endpoints_replaced": false,
+  "old61_resumed": false
+}

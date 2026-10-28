@@ -1,0 +1,31 @@
+cohort,repeat,component,max_abs_difference
+37_independent_qualification_20261027,1,encoder,4.76837158203125e-07
+37_independent_qualification_20261027,2,encoder,7.152557373046875e-07
+37_independent_qualification_20261027,3,encoder,4.76837158203125e-07
+44_moad_allocation_test_20261027,1,encoder,3.5762786865234375e-07
+44_moad_allocation_test_20261027,2,encoder,4.3213367462158203e-07
+44_moad_allocation_test_20261027,3,encoder,3.5762786865234375e-07
+37_independent_qualification_20261027,1,route_prior,0.0
+37_independent_qualification_20261027,2,route_prior,0.0
+37_independent_qualification_20261027,3,route_prior,0.0
+44_moad_allocation_test_20261027,1,route_prior,0.0
+44_moad_allocation_test_20261027,2,route_prior,0.0
+44_moad_allocation_test_20261027,3,route_prior,0.0
+37_independent_qualification_20261027,1,Route full,3.8743019104003906e-07
+37_independent_qualification_20261027,2,Route full,3.8743019104003906e-07
+37_independent_qualification_20261027,3,Route full,3.8743019104003906e-07
+37_independent_qualification_20261027,1,Conditional compact,4.76837158203125e-07
+37_independent_qualification_20261027,2,Conditional compact,4.76837158203125e-07
+37_independent_qualification_20261027,3,Conditional compact,4.76837158203125e-07
+37_independent_qualification_20261027,1,Joint full,2.384185791015625e-07
+37_independent_qualification_20261027,2,Joint full,2.384185791015625e-07
+37_independent_qualification_20261027,3,Joint full,2.384185791015625e-07
+44_moad_allocation_test_20261027,1,Route full,2.384185791015625e-07
+44_moad_allocation_test_20261027,2,Route full,2.384185791015625e-07
+44_moad_allocation_test_20261027,3,Route full,2.384185791015625e-07
+44_moad_allocation_test_20261027,1,Conditional compact,4.76837158203125e-07
+44_moad_allocation_test_20261027,2,Conditional compact,4.76837158203125e-07
+44_moad_allocation_test_20261027,3,Conditional compact,4.76837158203125e-07
+44_moad_allocation_test_20261027,1,Joint full,2.384185791015625e-07
+44_moad_allocation_test_20261027,2,Joint full,2.384185791015625e-07
+44_moad_allocation_test_20261027,3,Joint full,2.384185791015625e-07

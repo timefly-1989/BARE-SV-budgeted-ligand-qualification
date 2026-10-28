@@ -1,0 +1,7 @@
+cohort,method,B,algorithm,route_task_sum_seconds,downstream_task_sum_seconds,selected_task_sum_seconds,route_calls,downstream_calls,K,C,coverage,baseline_coverage,baseline_lost,score_sum,pilot_calls,restricted_steps,free_steps,search_evaluations
+37_independent_qualification_20261027,chemeleon_dual_full_compact,32,uniform,18355.383546376368,48.77281020721421,18404.156356583582,352,10,352,5,3,3,0,2.4534649646893634,,,,
+37_independent_qualification_20261027,chemeleon_dual_full_compact,32,recycling,18187.233017246705,64.55423299933318,18251.78725024604,352,13,352,8,3,3,0,2.4892239876562483,259.0,,,
+37_independent_qualification_20261027,chemeleon_dual_full_compact,32,global,18115.331042036298,64.55423299933318,18179.88527503563,352,13,352,8,3,3,0,2.4959839409093414,,,,
+44_moad_allocation_test_20261027,chemeleon_dual_full_compact,32,uniform,19667.362884157803,25.058156750979833,19692.421040908783,384,4,384,1,1,1,0,1.3352158501283968,,,,
+44_moad_allocation_test_20261027,chemeleon_dual_full_compact,32,recycling,19677.71025478386,25.058156750979833,19702.76841153484,384,4,384,1,1,1,0,1.3424097056804278,353.0,,,
+44_moad_allocation_test_20261027,chemeleon_dual_full_compact,32,global,19950.51501933334,25.86025041900575,19976.375269752345,384,4,384,1,1,1,0,1.3440502068287865,,,,

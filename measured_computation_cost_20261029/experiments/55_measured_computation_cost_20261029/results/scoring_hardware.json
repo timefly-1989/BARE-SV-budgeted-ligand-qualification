@@ -1,0 +1,15 @@
+{
+  "device": "mps",
+  "torch_threads": 4,
+  "MPS_synchronized": true,
+  "CPU_seconds_exclude_accelerator_work": true,
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "torch": "2.14.1",
+    "tabicl": "2.2.0",
+    "chemprop": "2.2.0",
+    "catboost": "1.2.8",
+    "scikit-learn": "1.6.1"
+  }
+}

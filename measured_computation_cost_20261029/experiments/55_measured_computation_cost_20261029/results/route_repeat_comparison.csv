@@ -1,0 +1,17 @@
+cohort,pocket_id,candidate_id,repeat,component,D_fresh,status,V,Q,D_archived,label_differs
+37_independent_qualification_20261027,4q8b-B-rec-4q8b-sxx-lig-tt-min-0-pocket10_4q8b-B-rec-4q8b-sxx-lig-tt-min-0_gen,record_0064,1,route,0.0,timeout,,,0,False
+37_independent_qualification_20261027,4xli-B-rec-4xli-1n1-lig-tt-min-0-pocket10_4xli-B-rec-4xli-1n1-lig-tt-min-0_gen,record_0078,1,route,0.0,bounded_search_unresolved,,,0,False
+37_independent_qualification_20261027,4q8b-B-rec-4q8b-sxx-lig-tt-min-0-pocket10_4q8b-B-rec-4q8b-sxx-lig-tt-min-0_gen,record_0019,1,route,0.0,bounded_search_unresolved,,,0,False
+37_independent_qualification_20261027,4q8b-B-rec-4q8b-sxx-lig-tt-min-0-pocket10_4q8b-B-rec-4q8b-sxx-lig-tt-min-0_gen,record_0094,1,route,0.0,bounded_search_unresolved,,,0,False
+44_moad_allocation_test_20261027,4PA0-bio1_2OW:A:1101_alt,record_0085,1,route,0.0,bounded_search_unresolved,,,0,False
+44_moad_allocation_test_20261027,1FD7-bio1_AI1:E:104_alt,record_0093,1,route,0.0,bounded_search_unresolved,,,0,False
+44_moad_allocation_test_20261027,5ZZB-bio2_LAB:D:401_alt,record_0097,1,route,0.0,bounded_search_unresolved,,,0,False
+44_moad_allocation_test_20261027,6P7R-bio1_PAM:A:301_alt,record_0004,1,route,0.0,timeout,,,0,False
+37_independent_qualification_20261027,4q8b-B-rec-4q8b-sxx-lig-tt-min-0-pocket10_4q8b-B-rec-4q8b-sxx-lig-tt-min-0_gen,record_0094,2,route,0.0,bounded_search_unresolved,,,0,False
+37_independent_qualification_20261027,4q8b-B-rec-4q8b-sxx-lig-tt-min-0-pocket10_4q8b-B-rec-4q8b-sxx-lig-tt-min-0_gen,record_0019,2,route,0.0,bounded_search_unresolved,,,0,False
+37_independent_qualification_20261027,4xli-B-rec-4xli-1n1-lig-tt-min-0-pocket10_4xli-B-rec-4xli-1n1-lig-tt-min-0_gen,record_0078,2,route,0.0,bounded_search_unresolved,,,0,False
+37_independent_qualification_20261027,4q8b-B-rec-4q8b-sxx-lig-tt-min-0-pocket10_4q8b-B-rec-4q8b-sxx-lig-tt-min-0_gen,record_0064,2,route,0.0,timeout,,,0,False
+44_moad_allocation_test_20261027,6P7R-bio1_PAM:A:301_alt,record_0004,2,route,0.0,timeout,,,0,False
+44_moad_allocation_test_20261027,5ZZB-bio2_LAB:D:401_alt,record_0097,2,route,0.0,bounded_search_unresolved,,,0,False
+44_moad_allocation_test_20261027,1FD7-bio1_AI1:E:104_alt,record_0093,2,route,0.0,bounded_search_unresolved,,,0,False
+44_moad_allocation_test_20261027,4PA0-bio1_2OW:A:1101_alt,record_0085,2,route,0.0,bounded_search_unresolved,,,0,False

@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-10-29T06:30:25.509720+08:00",
+  "status": "FIXED_BEFORE_SCORING_MEASUREMENTS",
+  "run_after": "fresh_chemistry PASS, no concurrent benchmark job",
+  "encoder": "one fresh weight load, three full query encoding passes per cohort, batch128; saved PCA transform timed separately",
+  "route_prior": "three repeats of exact old three-checkpoint auxiliary prior inference, no training",
+  "TFM": "route full, conditional compact, joint full; three fresh constructor/context-fit and query-prediction calls per cohort; no checkpoint updates",
+  "classical": "archived conditional CatBoost and joint RF loads once, three query-prediction repeats, no refitting",
+  "selection": "current CheMeleon compact score, B8/32, seven existing proposals, one warmup plus five repeats with deterministic shuffled measurement order; exact selected-set check",
+  "device": "MPS if available, sync around every timing; CPU seconds exclude accelerator compute",
+  "code_sha256": {
+    "benchmark_scoring.py": "4bdaf33f7779feaaeeabc3dc495cfef89eda47cb52d3b2d9a768e4fe8f79f89d"
+  },
+  "frozen_input_signatures_checked": true,
+  "MPS_initialization_timed_separately": true
+}

@@ -1,0 +1,25 @@
+{
+  "access_date": "2026-10-29",
+  "sources": [
+    {
+      "url": "https://docs.python.org/3.12/library/resource.html",
+      "role": "waited-child CPU accounting, distinct from wall time"
+    },
+    {
+      "url": "https://docs.python.org/3.12/library/time.html#time.process_time",
+      "role": "process CPU excludes elapsed sleeping and waiting"
+    },
+    {
+      "url": "https://docs.pytorch.org/docs/stable/generated/torch.mps.synchronize.html",
+      "role": "synchronize MPS kernels before/after wall timing"
+    },
+    {
+      "url": "https://researcher-resources.acs.org/publish/author_guidelines?coden=jcisd8",
+      "role": "JCIM Article data availability and review format"
+    },
+    {
+      "url": "https://autodock-vina.readthedocs.io/en/latest/docking_basic.html",
+      "role": "official docking workflow; archived pinned Vina configuration remains unchanged"
+    }
+  ]
+}

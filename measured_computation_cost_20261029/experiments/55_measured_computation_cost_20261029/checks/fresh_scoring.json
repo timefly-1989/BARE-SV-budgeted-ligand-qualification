@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "timing_records": 213,
+  "predictions_replaced": false,
+  "new_training_or_model_selection": false,
+  "conditional_model_weights_frozen": true,
+  "selection_terminal_sets_repeat_exactly": true
+}

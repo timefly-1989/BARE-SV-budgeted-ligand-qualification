@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "candidate_rows": 1280,
+  "policy_values": 336,
+  "chemistry_timing_records": 309,
+  "scoring_timing_records": 213,
+  "profiles_reconstructed": true,
+  "physical_timing_repetition_not_claimed": true,
+  "no_times_passed_to_selector": true
+}

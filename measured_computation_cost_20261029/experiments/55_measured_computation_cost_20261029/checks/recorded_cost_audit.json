@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "candidate_records": 1280,
+  "route_records": 1280,
+  "conditional_downstream_records": 20,
+  "shared_reference_records": 23,
+  "cheap_input_records": 1280,
+  "source_file_hashes": 2605,
+  "policy_values": 336,
+  "recorded_task_sums_are_not_campaign_wall_time": true,
+  "no_unobserved_timing_used_for_selection": true,
+  "old61_resumed": false
+}

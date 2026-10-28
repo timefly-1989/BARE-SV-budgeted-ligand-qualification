@@ -1,0 +1,30 @@
+{
+  "status": "FIXED_BEFORE_NEW_TIMING",
+  "timestamp": "2026-10-29T06:22:58.923451+08:00",
+  "study": "Real computation-cost profiling, not a new independent efficacy study",
+  "cohorts": [
+    "37_independent_qualification_20261027",
+    "44_moad_allocation_test_20261027"
+  ],
+  "route_input_selection": "first four SHA256(measured-cost-55|cohort|pocket|candidate) per cohort without reading candidate labels",
+  "route_cases": 8,
+  "route_repeats": 2,
+  "downstream_selection": "all20 archived D1 records; conditional engineering cohort, not random population estimate",
+  "downstream_repeats": 2,
+  "shared_references": 23,
+  "workers": 1,
+  "concurrent_study_jobs": 0,
+  "old_endpoints_unchanged": true,
+  "old61_resumed": false,
+  "metrics": [
+    "wall seconds",
+    "self CPU seconds",
+    "waited-child CPU seconds",
+    "process-tree peak RSS"
+  ],
+  "OS_disk_cold_claim": false,
+  "code_sha256": {
+    "benchmark_chemistry.py": "632f1db523ba1db724e8cf1e75e8768b36da9a7a0966bf9b6349df4613b63c88"
+  },
+  "case_sha256": "14540d46a24d80d3c527d626ce7a323a485f8472b53743b7f62c1a7d593eeb26"
+}
