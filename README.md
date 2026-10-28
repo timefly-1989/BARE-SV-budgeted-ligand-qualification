@@ -82,3 +82,17 @@ The original ligand proposals come from the publicly released FLOWR archive: Cre
 The `SHA256SUMS.json` manifest covers this numerical snapshot. `archive_provenance.json` separately records hashes of the copied numerical files. Original experimental scores and labels were not edited. AI assistance was used for code preparation, documentation and consistency checks; the authors are responsible for verification. No new experimental result is created by preparing this archive.
 
 Please cite the repository and its specific commit when using these materials. `CITATION.cff` supplies author and archive metadata. A GitHub URL or commit is not a DOI, and no journal acceptance or publication is claimed. No new third-party licence is granted by this archive; consult the original resource licences for any external resource.
+
+## Known-cost / bounded-retention numerical extension (29 October 2026)
+
+`cost_retention_decisions_20261029.zip` provides the exact cost/loss-cap
+certificate implementation, independent minimax verification, 4,500
+research-exposed policy values, finite-panel value thresholds and a standalone
+replay from official ToxCast/FS-Mol source files. It contains no unsubmitted
+manuscript, TOC art, raw molecular structures or individual source activities.
+Costs1/2/4 are synthetic input hashes, not measured assay/chemical times.
+There is no new independent campaign or confirmatory test. Earlier locked
+results remain unchanged. The archive README documents dependencies, scope,
+source attribution and replay commands.
+
+Archive SHA256: `c1ffe6dd1df9d0d41895d6ce33ddd91b0490e73625cc301a167ccc411a3bb590`.
